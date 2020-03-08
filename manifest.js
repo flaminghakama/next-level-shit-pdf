@@ -11,7 +11,7 @@ altJazzSongs["Next Level Shit"] = {
             "Next Level Shit": [ "Flute" ], 
         },
         "English Horn": {
-            "Next Level Shit": [ "English Horn in F" ], 
+            "Next Level Shit": [ "English Horn in F", "Lead Sheet" ], 
         },
         "Bass Clarinet": {
             "Next Level Shit": [ "Bass Clarinet in Bb" ],
@@ -23,7 +23,7 @@ altJazzSongs["Next Level Shit"] = {
             "Next Level Shit": [ "Clave", "Clave Chords" ], 
         },
         "Violin I": {
-            "Next Level Shit": [ "Violin I" ], 
+            "Next Level Shit": [ "Violin I", "Lead Sheet" ], 
         },
         "Violin II": {
             "Next Level Shit": [ "Violin II" ], 
@@ -51,7 +51,7 @@ altJazzSongs["Next Level Shit"] = {
                 key: "Ab"
             },
             baseUrl: 'http://ali-cia.net/altjazz/scores/', 
-            pdfSubdir: "",
+            pdfSubdir: "/",
             fileLocation: "next-level-shit",
             filePrefix: "next-level-shit-",
             parts: {
@@ -65,6 +65,9 @@ altJazzSongs["Next Level Shit"] = {
                 "Clave Chords": { fileSuffix: "Clave-Chords" },
                 "Piano": { fileSuffix: "Piano" },
                 "Voice": { fileSuffix: "Voice" },
+                "Lead Sheet": { fileSuffix: "Lead" },
+                "Lead Sheet for Bb": { fileSuffix: "Lead-for-Bb" },
+                "Lead Sheet for Eb": { fileSuffix: "Lead-for-Eb" },
                 "Violin I": { fileSuffix: "Violin-I" },
                 "Violin II": { fileSuffix: "Violin-II" },
                 "Viola": { fileSuffix: "Viola" },
