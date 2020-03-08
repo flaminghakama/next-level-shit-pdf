@@ -50,6 +50,7 @@ altJazzSongs["Next Level Shit"] = {
                 bpm: '216',
                 key: "Ab"
             },
+            baseUrl: 'http://ali-cia.net/altjazz/scores/', 
             pdfSubdir: "",
             fileLocation: "next-level-shit",
             filePrefix: "next-level-shit-",
