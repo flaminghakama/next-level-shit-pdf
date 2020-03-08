@@ -20,7 +20,7 @@ altJazzSongs["Next Level Shit"] = {
             "Next Level Shit": [ "Voice" ],
         },
         "Drums": {
-            "Next Level Shit": [ "Drums" ], 
+            "Next Level Shit": [ "Clave", "Clave Chords" ], 
         },
         "Violin I": {
             "Next Level Shit": [ "Violin I" ], 
@@ -50,6 +50,7 @@ altJazzSongs["Next Level Shit"] = {
                 bpm: '216',
                 key: "Ab"
             },
+            pdfSubdir: "",
             fileLocation: "next-level-shit",
             filePrefix: "next-level-shit-",
             parts: {
@@ -60,6 +61,7 @@ altJazzSongs["Next Level Shit"] = {
                 "Horn in F": { fileSuffix: "Horn-in-F" },
                 "Trombone": { fileSuffix: "Trombone" },
                 "Clave": { fileSuffix: "Clave" },
+                "Clave Chords": { fileSuffix: "Clave-Chords" },
                 "Piano": { fileSuffix: "Piano" },
                 "Voice": { fileSuffix: "Voice" },
                 "Violin I": { fileSuffix: "Violin-I" },
