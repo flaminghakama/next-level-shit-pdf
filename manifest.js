@@ -71,20 +71,20 @@ altJazzSongs["Next Level Shit"] = {
                 "Violin I": { fileSuffix: "Violin-I" },
                 "Violin II": { fileSuffix: "Violin-II" },
                 "Viola": { fileSuffix: "Viola" },
-                "Cello": { fileSuffix: "Cello" },
+                "'Cello": { fileSuffix: "Cello" },
                 "Bass": { fileSuffix: "Bass" },
             },
             scores: {
-                "Rhythm": { fileSuffix: "Rhythm" },
-                "Condensed Score": { fileSuffix: "Condensed-Score" },
-                "Score Transposed": { fileSuffix: "Score-Transposed" },
-                "Score Concert": { fileSuffix: "Score-Concert" },
+                //"Rhythm": { fileSuffix: "Rhythm" },
+                //"Condensed Score": { fileSuffix: "Condensed-Score" },
+                "Transposed Score": { fileSuffix: "Score-Transposed" },
+                //"Concert Score": { fileSuffix: "Score-Concert" },
                 "Lead Sheet": { fileSuffix: "Lead-Sheet" },
             },
             recordings: {
                 demo: {
-                    description: 'demo',
-                    url: ''
+                    description: 'MIDI for tracking (six bars out front, of 3-2 clave)',
+                    url: 'https://soundcloud.com/david-elaine-alt/next-level-shit-midi'
                 },
                 reading: {
                     description: 'reading',
