@@ -83,8 +83,12 @@ altJazzSongs["Next Level Shit"] = {
             },
             recordings: {
                 demo: {
-                    description: 'MIDI for tracking (six bars out front, of 3-2 clave)',
+                    description: 'MIDI for tracking (six bars out front, of 3-2 clave), on SoundClound',
                     url: 'https://soundcloud.com/david-elaine-alt/next-level-shit-midi'
+                },
+                reference: {
+                    description: 'MIDI for tracking (six bars out front, of 3-2 clave), on Google Drive',
+                    url: 'https://drive.google.com/open?id=1YNwW5MLhluxKiFSmgqFSA6r6R9VHpsrL'
                 },
                 reading: {
                     description: 'reading',
