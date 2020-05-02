@@ -72,14 +72,14 @@ altJazzSongs["Next Level Shit"] = {
                 "Violin II": { fileSuffix: "Violin-II" },
                 "Viola": { fileSuffix: "Viola" },
                 "'Cello": { fileSuffix: "Cello" },
-                "Bass": { fileSuffix: "Bass" },
+                "Bass": { fileSuffix: "Bass" }
             },
             scores: {
                 //"Rhythm": { fileSuffix: "Rhythm" },
                 //"Condensed Score": { fileSuffix: "Condensed-Score" },
                 "Transposed Score": { fileSuffix: "Score-Transposed" },
                 //"Concert Score": { fileSuffix: "Score-Concert" },
-                "Lead Sheet": { fileSuffix: "Lead-Sheet" },
+                "Lead Sheet": { fileSuffix: "Lead-Sheet" }
             },
             recordings: {
                 demo: {
